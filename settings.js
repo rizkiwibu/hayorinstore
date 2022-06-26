@@ -30,7 +30,7 @@
   global.packname = 'Sticket By' // Sticker Weem
   global.author = 'ikybot' // Sticker Weem
   global.webme = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/rizkiwibu' // Ganti Sama Link Github Mu
