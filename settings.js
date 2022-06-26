@@ -23,12 +23,12 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'ikystore' // Ganti Jadi Namamu
-  global.owner = ['6285878836361','6285878836361','6283817161861'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6285878836361 ' // Owner Utama Istilahnya
-  global.botname = 'IkyBotz' // Ganti Jadi Nama Botmu
+  global.ownername = 'HYORIN Store' // Ganti Jadi Namamu
+  global.owner = ['6285388611401','6285878836361','6285388611401'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6285388611401 ' // Owner Utama Istilahnya
+  global.botname = 'HYORIN BOTZ' // Ganti Jadi Nama Botmu
   global.packname = 'Sticket By' // Sticker Weem
-  global.author = 'ikybot' // Sticker Weem
+  global.author = 'HYORIN BOTZ' // Sticker Weem
   global.webme = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
