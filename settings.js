@@ -23,18 +23,18 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'ArullOfc' // Ganti Jadi Namamu
-  global.owner = ['6285822347348','6285822347348','6285822347348'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6285822347348' // Owner Utama Istilahnya
-  global.botname = 'ArullBotzMD' // Ganti Jadi Nama Botmu
+  global.ownername = 'ikystore' // Ganti Jadi Namamu
+  global.owner = ['6285878836361','6285878836361','6283817161861'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6285878836361 ' // Owner Utama Istilahnya
+  global.botname = 'IkyBotz' // Ganti Jadi Nama Botmu
   global.packname = 'Sticket By' // Sticker Weem
-  global.author = 'ArullOfc' // Sticker Weem
-  global.webme = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Web Mu
+  global.author = 'ikybot' // Sticker Weem
+  global.webme = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/sahrulwara_____' // Ganti Sama Link Ig mu
+  global.youtube = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/rizkiwibu' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/ikykunnnn' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
